@@ -8,7 +8,7 @@ I am a dedicated third-year Computer Science student with a passion for learning
 
 🌱 **Current Status:**
 
-- I’m currently on my third year of studying CS.
+I’m currently on my third year of studying CS.
 
 🤔 **Career Aspiration:**
 
